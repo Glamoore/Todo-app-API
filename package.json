@@ -1,7 +1,7 @@
 {
-  "name": "technotes_app",
+  "name": "todoApp_api",
   "version": "1.0.0",
-  "description": "Technotes MERN project",
+  "description": "todoApp MERN project",
   "main": "server.js",
   "scripts": {
     "start": "node server",
